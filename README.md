@@ -1,6 +1,6 @@
 # Downloads
 - Plugin: https://www.roblox.com/library/11558636928/Audio-ID-Extractor
-- Executable: Download "SoundPermissions.py" from repository
+- Executable: Download `SoundPermissions.py` from repository
 
 # Usage Steps
 1. Open your Roblox place.
