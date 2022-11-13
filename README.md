@@ -1,7 +1,8 @@
 # Downloads
-Plugin: https://www.roblox.com/library/11558636928/Audio-ID-Extractor
-Executable: Download "SoundPermissions.py" from repository
+- Plugin: https://www.roblox.com/library/11558636928/Audio-ID-Extractor
+- Executable: Download "SoundPermissions.py" from repository
 
+# Usage Steps
 1. Open your Roblox place.
 2. Open the Sound ID Extractor plugin. You can set a minimum and maximum ID range, if you are using all new assets, increase the minimum to speed up processing time.
 3. Click "Start Process".
