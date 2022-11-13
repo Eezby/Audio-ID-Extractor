@@ -4,7 +4,7 @@
 
 # Usage Steps
 1. Open your Roblox place.
-2. Open the Sound ID Extractor plugin. You can set a minimum and maximum ID range, if you are using all new assets, increase the minimum to speed up processing time.
+2. Open the `Sound ID Extractor plugin`. You can set a minimum and maximum ID range, if you are using all new assets, increase the minimum to speed up processing time.
 3. Click "Start Process".
 4. Once completed, a list of sound IDs will appear in the center box. You will need these later.
 5. Run the SoundPermissions.py executable, a terminal / command prompt should appear.
