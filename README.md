@@ -9,7 +9,7 @@
 2. Open the `Sound ID Extractor plugin`. You can set a minimum and maximum ID range, if you are using all new assets, increase the minimum to speed up processing time.
 3. Click "Start Process".
 4. Once completed, a list of sound IDs will appear in the center box. You will need these later.
-5. Run the `SoundPermissions.py` executable, a terminal / command prompt should appear.
+5. Run the `SoundPermissions.exe` executable, a terminal / command prompt should appear.
 6. Go to https://create.roblox.com/creations
 7. Find your universe and click on the `...` in the upper right corner (it might be hard to see).
 8. Click `Copy Universe ID` then paste it into the first line of the terminal, hit enter.
